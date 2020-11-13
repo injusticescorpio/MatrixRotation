@@ -1,4 +1,4 @@
-#  Matrix Rotation java program
+# Matrix Rotation java program
 
 <pre style="color : gray">
 Input
